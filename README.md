@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image]([https://github.com/Poleron402/Poleron402/assets/89750832/a9a24e5d-2ddb-4e66-9275-17359ef12f2d](https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif))
+![](https://github.com/Poleron402/Poleron402/assets/89750832/a9a24e5d-2ddb-4e66-9275-17359ef12f2d](https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif)
 
 
 <!--
