@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif)
+<img src="https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif" width="100"/>
 
 
 <!--
