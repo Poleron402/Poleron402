@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src="https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif" width="100"/>
+### Hi there!
+<img src="https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif" alt="real video of me typing on the keyboard" width="150"/>
 
 
 <!--
