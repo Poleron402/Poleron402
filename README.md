@@ -1,4 +1,5 @@
 ### Hi there 👋
+![tapping cat](https://github.com/Poleron402/Poleron402/assets/89750832/47eeadc3-43f9-43ee-9219-14f50300730f)
 
 <!--
 **Poleron402/Poleron402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
