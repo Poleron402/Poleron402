@@ -1,7 +1,6 @@
-<div style="background-color: #A1E5D8;">
-  <h3 style="color:white"><b>Hi there!</b></h3>
-  <img src="https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif" alt="real video of me typing on the keyboard" width="150"/>
-</div>
+### Hi there!</b></h3>
+<img src="https://media.tenor.com/fYg91qBpDdgAAAAC/bongo-cat-transparent.gif" alt="real video of me typing on the keyboard" width="150"/>
+
 
 
 <!--
