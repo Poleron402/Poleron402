@@ -1,16 +1,6 @@
 ### Hi there!</b></h3>
 
-<!--
-**Poleron402/Poleron402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on front-end projects
+- 🌱 I’m currently learning Java and Android Studio
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React projects
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with getting out of comfort zone
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
