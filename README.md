@@ -5,15 +5,14 @@ I'm an aspiring software developer interested in web development. Currently work
 ## 🔧 Skills & Tools
 - Programming languages: Python, JS, R, Java, SQL
 - Frameworks & libraries: Django, React
-- Tools & technologies: VSCode, IntelliJ, Git, GitHub
+- Tools & Technologies: VSCode, IntelliJ, Git, GitHub
 
 ## 🌱 Currently Learning
-Java programming language and frameworks associated with it. 
+Java programming language and frameworks associated with it. Interested in learning mobile development (iOS and Android) in the near future.
 
 ## 📚 Education
 BS in progress at CSUMB
 
 ## 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/polina-mejia-432080284/]
-
 
