@@ -11,7 +11,7 @@ I'm an aspiring software developer interested in web development. Currently work
 Java programming language and frameworks associated with it. Interested in learning mobile development (iOS and Android) in the near future.
 
 ## 📚 Education
-BS in progress at CSUMB
+BS in Computer Science at CSUMB (2025)
 
 ## 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/polina-mejia-432080284/]
