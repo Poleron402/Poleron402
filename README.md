@@ -1,6 +1,6 @@
-# Hello, I'm Polina M.
+# Hello, I'm Pol M.
 
-I'm an aspiring software developer interested in web development. Currently working on a full-stack application and learning Java.
+I'm a CS student aiming to become a full-time software developer
 
 ## 🔧 Skills & Tools
 - Programming languages: Python, JS, R, Java, SQL
@@ -8,7 +8,7 @@ I'm an aspiring software developer interested in web development. Currently work
 - Tools & Technologies: VSCode, IntelliJ, Git, GitHub
 
 ## 🌱 Currently Learning
-Java programming language and frameworks associated with it. Interested in learning mobile development (iOS and Android) in the near future.
+Automating things with Python
 
 ## 📚 Education
 BS in Computer Science at CSUMB (2025)
