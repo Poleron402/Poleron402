@@ -1,11 +1,11 @@
 # Hello, I'm Pol M.
 
-I'm a CS student aiming to become a full-time software developer
-
+Junior Dev
 ## 🔧 Skills & Tools
-- Programming languages: Python, JS, R, Java, SQL
-- Frameworks & libraries: Django, React
-- Tools & Technologies: VSCode, IntelliJ, Git, GitHub
+- Programming languages: Python, JS, Java, SQL, C++ (not really)
+- Frameworks & libraries: Django, React, Android
+- DB: Postgresql
+- Tools & Technologies: VSCode, IntelliJ, Git, GitHub, GitLab
 
 ## 🌱 Currently Learning
 Automating things with Python
