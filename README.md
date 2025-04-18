@@ -10,4 +10,4 @@ Too many interests, too few hours in a day
 - Tools & Technologies: VSCode, IntelliJ, Git, GitHub, GitLab, Postman
 
 ### This me ↓
-![image](https://github.com/user-attachments/assets/5e40a5db-53f4-426a-ba5b-9633136d8726)
+![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NuNnBxNzJpZzV2OTMzZnp5a3N3ZmU2OWt6cXQ5bnQxcWw4ZnJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
