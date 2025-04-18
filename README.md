@@ -1,18 +1,13 @@
-# Hello, I'm Pol M.
+# Howdy, I'm Pol
 
-Junior Dev
+Too many interests, too few hours in a day
+
 ## 🔧 Skills & Tools
 - Programming languages: Python, JS, Java, SQL, C++ (not really)
-- Frameworks & libraries: Django, React, Android
-- DB: Postgresql
-- Tools & Technologies: VSCode, IntelliJ, Git, GitHub, GitLab
+- Learning!: Go
+- Frameworks & libraries: Django, React, Android, SpringBoot, MUI, Bootstrap, Tailwind
+- DB: Postgresql, MySQL
+- Tools & Technologies: VSCode, IntelliJ, Git, GitHub, GitLab, Postman
 
-## 🌱 Currently Learning
-Automating things with Python
-
-## 📚 Education
-BS in Computer Science at CSUMB (2025)
-
-## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/polina-mejia-432080284/]
-
+### This me ↓
+![image](https://github.com/user-attachments/assets/5e40a5db-53f4-426a-ba5b-9633136d8726)
